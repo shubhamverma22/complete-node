@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Cormorant&display=swap");
+body {
+	font-family: "Cormorant", serif;
+	background: url("/assets/background.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.center-div {
+	padding-top: 10%;
+}
+.btn.btn-success {
+	padding: 0.4em 2em;
+}
+
+form {
+	padding: 0 3em;
+}
+
+#login .title > span {
+	font-size: 0.8em;
+}
